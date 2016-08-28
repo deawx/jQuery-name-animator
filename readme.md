@@ -1,6 +1,6 @@
-# Name Animator
+# Text/Name Animator
 
-This is a simple jQuery project which animates a given name.
+This is a simple jQuery project which animates a given text/name. You can use this code to add fancy effects for your websites.
 To animate your own name, replace 'Enter Your Name' with the name you want to animate.
 
 To change colors, replace the variables named 'red, orange, green, blue and purple' with the color of your own choice. But,
